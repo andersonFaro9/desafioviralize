@@ -4,8 +4,5 @@
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/3237047/83291898-8c20b280-a1bf-11ea-893f-74ef7208c95d.gif)
 
-
-Acesso em como ficou o desafio: https://www.youtube.com/watch?v=jpENpQcdyGY&feature=youtu.be
-
 ### Todos os direitos reservados a empresa Monday
 
