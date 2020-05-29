@@ -1,4 +1,4 @@
-# Um desafio feito para a empresa Viralize e pode ser acessado por esse link: http://viralize.online/
+### Um desafio feito para a empresa Viralize e pode ser acessado por esse link: http://viralize.online/
 
 * Nesse desafio foi me passado para recriar página home da empresa chamada Monday utilizando o Vue Js e Quasar Framework e pode ser acessado aqui: https://monday.com/lang/pt/
 
@@ -6,5 +6,5 @@
 
 Acesso em como ficou o desafio: https://www.youtube.com/watch?v=jpENpQcdyGY&feature=youtu.be
 
-## Todos os direitos reservados a empresa Monday
+### Todos os direitos reservados a empresa Monday
 
