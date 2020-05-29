@@ -1,26 +1,10 @@
-# Quasar App (desafioviralize)
+# Um desafio feito para a empresa Viralize e pode ser acessado por esse link: http://viralize.online/
 
-viralize
+* Nesse desafio foi me passado para recriar página home da empresa chamada Monday utilizando o Vue Js e Quasar Framework e pode ser acessado aqui: https://monday.com/lang/pt/
 
-## Install the dependencies
-```bash
-yarn
-```
+![viralize](https://user-images.githubusercontent.com/3237047/83290815-ab1e4500-a1bd-11ea-860a-26c12a5c0491.png)
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Acesso em como ficou o desafio: https://www.youtube.com/watch?v=jpENpQcdyGY&feature=youtu.be
 
-### Lint the files
-```bash
-yarn run lint
-```
+## Todos os direitos reservados a empresa Monday
 
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
